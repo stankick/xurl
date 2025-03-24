@@ -3,7 +3,7 @@
 set -e
 
 INSTALL_DIR="/usr/local/bin"
-GITHUB_REPO="santiagomed/xurl"
+GITHUB_REPO="stankick/xurl"
 PROGRAM_NAME="xurl"
 
 print_message() {
